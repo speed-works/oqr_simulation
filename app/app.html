@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIJOQR Simulator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+        .details-content {
+            transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease;
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+        }
+        .details-content.open {
+            max-height: 1000px;
+            opacity: 1;
+        }
+        input[type=range] {
+            accent-color: #6366f1;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased pb-20">
+
+    <div class="max-w-5xl mx-auto px-4 pt-6 pb-2">
+        <h1 class="text-2xl sm:text-3xl font-bold text-indigo-700 flex items-center gap-2 mb-6">
+            📊 TRIJOQR シミュレーター
+        </h1>
+        
+        <div class="bg-white border-l-4 border-indigo-500 rounded-r-lg p-4 sm:p-5 shadow-sm mb-6">
+            <div class="mb-4">
+                <h2 class="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
+                    <span class="text-indigo-500">📌</span> このシミュレーターについて
+                </h2>
+                <p class="text-xs sm:text-sm text-slate-600 leading-relaxed mb-2">
+                    個人の五輪予選ランキング(<span class="text-blue-600 font-bold">IOQR</span>)と、ミックスリレーのランキング(<span class="text-emerald-600 font-bold">MOQR</span>)を組み合わせた独自指標<strong>「TRIJOQR」</strong>のシミュレーターです。<br>
+                    <span class="font-semibold text-slate-700">※パリオリンピックの実際のデータを使用して検証・構築されています。</span><br>
+                    スライダーでMOQRの係数を調整し、順位の変動をリアルタイムに確認できます。
+                </p>
+            </div>
+
+            <div class="bg-slate-50 border border-slate-200 rounded-md p-3 overflow-x-auto">
+                <h3 class="text-[11px] font-bold text-slate-500 uppercase tracking-wider mb-1.5">💡 TRIJOQR 計算式</h3>
+                <div class="font-mono text-sm sm:text-base flex items-center flex-wrap gap-2 whitespace-nowrap">
+                    <span class="font-black text-slate-700">Score</span> 
+                    <span class="text-slate-400">=</span> 
+                    <span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100 font-semibold">IOQR</span> 
+                    <span class="text-slate-400">+</span> 
+                    <span class="text-slate-500">(</span>
+                    <span class="bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded border border-emerald-100 font-semibold">MOQR</span> 
+                    <span class="text-slate-400">×</span> 
+                    <span class="bg-red-50 text-red-600 px-2 py-0.5 rounded border border-red-100 font-semibold">係数</span>
+                    <span class="text-slate-500">)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="sticky top-0 z-50 bg-slate-50/95 backdrop-blur-md border-b border-slate-200 shadow-sm py-3">
+        <div class="max-w-5xl mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-3 items-end">
+                <div class="md:col-span-2">
+                    <label class="block text-[10px] font-bold text-slate-400 mb-1 ml-1 uppercase">Gender</label>
+                    <select id="gender-select" class="w-full bg-white border border-slate-300 text-sm rounded-md px-2 py-2 focus:ring-2 focus:ring-indigo-400 outline-none shadow-sm" disabled>
+                        <option value="">全ての性別</option>
+                    </select>
+                </div>
+                <div class="md:col-span-5">
+                    <label class="block text-[10px] font-bold text-slate-400 mb-1 ml-1 uppercase text-left">Country Search / Select</label>
+                    <div class="flex gap-2">
+                        <input type="text" id="country-search" placeholder="国名コードを入力 (例: JPN)" class="flex-[1.2] min-w-0 bg-white border border-slate-300 text-sm rounded-md px-3 py-2 focus:ring-2 focus:ring-indigo-400 outline-none shadow-sm placeholder:text-slate-300">
+                        <select id="country-select" class="flex-1 min-w-0 bg-white border border-slate-300 text-sm rounded-md px-2 py-2 focus:ring-2 focus:ring-indigo-400 outline-none shadow-sm" disabled>
+                            <option value="">選択...</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="md:col-span-5 flex items-center gap-3 bg-white p-2 rounded-lg border border-slate-200 shadow-sm">
+                    <div class="shrink-0 text-[10px] font-bold text-slate-400 ml-1 uppercase">MOQR 係数 (Weight)</div>
+                    <input type="range" id="moqr-weight" min="0" max="1" step="0.01" value="1.0" class="flex-1 h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer disabled:opacity-50" disabled>
+                    <div class="shrink-0 text-right w-12">
+                        <span id="weight-display" class="text-lg font-bold text-red-500">1.00</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main class="max-w-5xl mx-auto px-2 sm:px-4 mt-6">
+        <div class="bg-indigo-50 border border-indigo-100 rounded-md p-2 mb-3 inline-flex items-center gap-2">
+            <span class="text-indigo-500">💡</span>
+            <p class="text-[10px] sm:text-xs text-indigo-800 font-medium">選手名（行）をクリックすると、リレー大会ごとのポイント内訳を確認できます。</p>
+        </div>
+        
+        <div class="bg-white border border-slate-200 rounded-xl shadow-sm overflow-hidden w-full">
+            <table class="w-full text-left border-collapse">
+                <thead class="bg-slate-100 border-b border-slate-200 text-slate-500 text-[11px] uppercase tracking-wider">
+                    <tr>
+                        <th class="py-3 px-2 sm:px-4 font-semibold text-center w-8 sm:w-14">Rank</th>
+                        <th class="py-3 px-2 sm:px-3 font-semibold">Athlete / Points Detail</th>
+                        <th class="hidden sm:table-cell py-3 px-4 font-semibold text-right w-48 lg:w-56">Score & Formula</th>
+                    </tr>
+                </thead>
+                <tbody id="results-body">
+                    <tr>
+                        <td colspan="3" class="p-10 text-center text-slate-500 text-sm">
+                            <span class="inline-block animate-pulse">CSVデータをロード中...</span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        let allAthletes = [];
+        let expandedAthletes = new Set(); 
+        
+        const CSV_FILE_NAME = "./oqr_simlation_la28_wparis.csv";
+
+        const targetTournaments = [
+            "2022 World Triathlon Championship Series Hamburg",
+            "2022 World Triathlon Championship Series Leeds",
+            "2022 World Triathlon Sprint and Relay Championships Montreal",
+            "2023 Americas Triathlon Cup and South American Championships Lima",
+            "2023 World Triathlon Championship Series Sunderland",
+            "2023 World Triathlon Mixed Relay Series Paris",
+            "2023 World Triathlon Sprint and Relay Championships Hamburg",
+            "2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco"
+        ];
+
+        document.addEventListener("DOMContentLoaded", loadData);
+
+        function loadData() {
+            Papa.parse(CSV_FILE_NAME, {
+                download: true,
+                header: true,
+                dynamicTyping: true,
+                skipEmptyLines: true,
+                complete: function(results) {
+                    allAthletes = results.data
+                        .filter(row => row.Name)
+                        .map(row => {
+                            let points = {};
+                            let count = 0;
+                            targetTournaments.forEach(t => {
+                                if (row[t] !== null && row[t] !== undefined && row[t] !== "") {
+                                    points[t] = parseFloat(row[t]);
+                                    count++;
+                                }
+                            });
+                            return {
+                                name: row.Name,
+                                gender: row.Gender,
+                                country: String(row.Country || "").toUpperCase(),
+                                ioqr: parseFloat(row.IOQR) || 0,
+                                moqr: parseFloat(row.MOQR) || 0,
+                                tournaments: points,
+                                tournamentCount: count
+                            };
+                        });
+                    
+                    document.getElementById('moqr-weight').disabled = false;
+                    initializeFilters();
+                    updateSimulation();
+                },
+                error: function() {
+                    document.getElementById('results-body').innerHTML = `
+                        <tr><td colspan="3" class="p-10 text-center text-red-500 font-semibold bg-red-50">⚠️ CSVのロードに失敗しました。ローカルサーバー経由で開いてください。</td></tr>
+                    `;
+                }
+            });
+        }
+
+        function initializeFilters() {
+            const countrySelect = document.getElementById('country-select');
+            const countries = [...new Set(allAthletes.map(a => a.country).filter(Boolean))].sort();
+            countrySelect.innerHTML = '<option value="">(選択解除)</option>';
+            countries.forEach(c => countrySelect.innerHTML += `<option value="${c}">${c}</option>`);
+            countrySelect.disabled = false;
+
+            const genderSelect = document.getElementById('gender-select');
+            const genders = [...new Set(allAthletes.map(a => a.gender).filter(Boolean))].sort();
+            genders.forEach(g => genderSelect.innerHTML += `<option value="${g}">${g}</option>`);
+            genderSelect.disabled = false;
+        }
+
+        const slider = document.getElementById('moqr-weight');
+        const weightDisplay = document.getElementById('weight-display');
+        const countrySearch = document.getElementById('country-search');
+        const countrySelect = document.getElementById('country-select');
+        const genderSelect = document.getElementById('gender-select');
+
+        slider.addEventListener('input', () => {
+            weightDisplay.textContent = parseFloat(slider.value).toFixed(2);
+            updateSimulation();
+        });
+
+        countrySearch.addEventListener('input', () => {
+            if(countrySearch.value) countrySelect.value = "";
+            updateSimulation();
+        });
+
+        countrySelect.addEventListener('change', () => {
+            if(countrySelect.value) countrySearch.value = "";
+            updateSimulation();
+        });
+
+        genderSelect.addEventListener('change', updateSimulation);
+
+        function updateSimulation() {
+            if (allAthletes.length === 0) return;
+
+            const weight = parseFloat(slider.value);
+            const searchText = countrySearch.value.toUpperCase();
+            const selectedCountry = countrySelect.value;
+            const selectedGender = genderSelect.value;
+
+            let filtered = allAthletes.filter(a => {
+                const matchGender = !selectedGender || a.gender === selectedGender;
+                let matchCountry = true;
+                if (searchText) {
+                    matchCountry = a.country.includes(searchText);
+                } else if (selectedCountry) {
+                    matchCountry = a.country === selectedCountry;
+                }
+                return matchGender && matchCountry;
+            });
+
+            filtered.forEach(a => a.trijoqr = a.ioqr + (a.moqr * weight));
+            filtered.sort((a, b) => b.trijoqr - a.trijoqr);
+
+            renderTable(filtered, weight);
+        }
+
+        function toggleDetails(athleteName) {
+            if (expandedAthletes.has(athleteName)) {
+                expandedAthletes.delete(athleteName);
+            } else {
+                expandedAthletes.add(athleteName);
+            }
+            updateSimulation(); 
+        }
+
+        function renderTable(data, weight) {
+            const tbody = document.getElementById('results-body');
+            tbody.innerHTML = '';
+
+            if (data.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" class="p-10 text-center text-slate-400">選手が見つかりません</td></tr>';
+                return;
+            }
+
+            const fragment = document.createDocumentFragment();
+
+            data.forEach((a, index) => {
+                const isOpen = expandedAthletes.has(a.name);
+                
+                // 大会リスト：truncateを外し、自然に折り返すように修正。ポイントも左寄せ。
+                let tourHTML = '';
+                const tNames = Object.keys(a.tournaments);
+                if (tNames.length > 0) {
+                    tNames.forEach(t => {
+                        tourHTML += `
+                            <div class="flex items-start gap-2 sm:gap-3 bg-white border border-slate-200 py-2 px-3 rounded shadow-sm">
+                                <div class="font-bold text-indigo-600 text-sm w-12 shrink-0 text-left pt-0.5">
+                                    ${a.tournaments[t].toFixed(1)} 
+                                </div>
+                                <div class="text-[10px] sm:text-xs text-slate-600 leading-relaxed break-words">
+                                    ${t}
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    tourHTML = `<div class="text-[11px] text-slate-400 bg-slate-50 p-2 rounded border border-slate-100 text-center">対象大会のポイントはありません</div>`;
+                }
+
+                const badgeClass = a.tournamentCount > 0 
+                    ? "bg-indigo-50 text-indigo-600 border-indigo-200" 
+                    : "bg-slate-50 text-slate-400 border-slate-200";
+
+                const tr = document.createElement('tr');
+                tr.className = "border-b border-slate-100 hover:bg-slate-50/50 transition-colors cursor-pointer group";
+                tr.onclick = () => toggleDetails(a.name);
+                
+                tr.innerHTML = `
+                    <td class="py-4 px-1 sm:px-4 w-8 sm:w-14 text-center align-top font-bold text-slate-300 group-hover:text-indigo-400 shrink-0">${index + 1}</td>
+                    
+                    <td class="py-4 px-2 sm:px-3 align-top min-w-0">
+                        <div class="flex flex-col">
+                            
+                            <div class="mb-1.5">
+                                <span class="font-bold text-slate-800 text-[15px] sm:text-lg break-words leading-tight">${a.name}</span>
+                                <div class="flex flex-wrap items-center gap-1 mt-1">
+                                    <span class="bg-slate-200 text-slate-700 text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded flex items-center">${a.country}</span>
+                                    <span class="border px-1.5 py-0.5 rounded flex items-baseline gap-0.5 ${badgeClass}">
+                                        <span class="text-[9px]">対象:</span>
+                                        <span class="font-bold text-xs sm:text-sm leading-none">${a.tournamentCount}</span>
+                                        <span class="text-[9px]">回</span>
+                                    </span>
+                                </div>
+                            </div>
+                            
+                            <div class="sm:hidden mt-2 bg-slate-50 border border-slate-100 rounded-md p-2.5 w-full shadow-sm">
+                                <div class="flex items-center gap-2 mb-1.5">
+                                    <span class="text-[10px] font-bold text-slate-400 tracking-wider">SCORE</span>
+                                    <span class="font-black text-indigo-600 text-[18px] leading-none tracking-tight">${a.trijoqr.toFixed(2)}</span>
+                                </div>
+                                <div class="text-[10px] font-medium text-slate-500 flex flex-col gap-0.5">
+                                    <div><span class="text-blue-600">IOQR:</span> ${a.ioqr.toFixed(2)}</div>
+                                    <div><span class="text-emerald-600">MOQR:</span> ${a.moqr.toFixed(2)} <span class="text-slate-400 px-0.5">×</span> <span class="text-red-500">${weight.toFixed(2)}</span></div>
+                                </div>
+                            </div>
+                            
+                            <div class="details-content ${isOpen ? 'open' : ''}">
+                                <div class="pt-3 pb-1">
+                                    <span class="block text-[10px] font-bold text-indigo-400 mb-2 uppercase tracking-widest">Relay Point Breakdown</span>
+                                    <div class="flex flex-col gap-1.5">
+                                        ${tourHTML}
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </td>
+
+                    <td class="hidden sm:table-cell py-4 px-4 text-right align-top w-48 lg:w-56 shrink-0">
+                        <div class="font-black text-indigo-600 text-2xl tracking-tight leading-none mb-2">${a.trijoqr.toFixed(2)}</div>
+                        
+                        <div class="text-[11px] font-medium flex flex-col items-end space-y-1 whitespace-nowrap">
+                            <span class="text-blue-600 bg-blue-50 px-1.5 py-0.5 rounded">IOQR: ${a.ioqr.toFixed(2)}</span>
+                            <span class="text-slate-400">+</span>
+                            <span class="text-emerald-600 bg-emerald-50 px-1.5 py-0.5 rounded">MOQR: ${a.moqr.toFixed(2)} <span class="text-slate-400 mx-0.5">×</span> <span class="text-red-500">${weight.toFixed(2)}</span></span>
+                        </div>
+                    </td>
+                `;
+                fragment.appendChild(tr);
+            });
+
+            tbody.appendChild(fragment);
+        }
+    </script>
+</body>
+</html>
