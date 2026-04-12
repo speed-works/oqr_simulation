@@ -1,7 +1,8 @@
 {
     "name": "Universal Data Science Lab",
     "build": {
-        "dockerfile": "Dockerfile"
+        "dockerfile": "Dockerfile",
+        "context": ".."
     },
     "customizations": {
         "vscode": {
