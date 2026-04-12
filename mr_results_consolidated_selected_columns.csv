@@ -1,0 +1,557 @@
+team_id,team_title,team_country_id,team_country_name,team_noc,result_id,position,total_time,start_num,prog_id,event_id,event_title,team_order,athlete_id,athlete_title,athlete_gender
+126776,Team I Germany,170,Germany,GER,1058460,1,01:28:00,1,550671,163472,2022 World Triathlon Championship Series Leeds,1,73078,Lasse Nygaard Priester,male
+126776,Team I Germany,170,Germany,GER,1058460,1,01:28:00,1,550671,163472,2022 World Triathlon Championship Series Leeds,2,84871,Anabel Knoll,female
+126776,Team I Germany,170,Germany,GER,1058460,1,01:28:00,1,550671,163472,2022 World Triathlon Championship Series Leeds,3,70410,Lasse Lührs,male
+126776,Team I Germany,170,Germany,GER,1058460,1,01:28:00,1,550671,163472,2022 World Triathlon Championship Series Leeds,4,70413,Laura Lindemann,female
+126779,Team I Great Britain,292,Great Britain,GBR,1058461,2,01:28:14,4,550671,163472,2022 World Triathlon Championship Series Leeds,1,18719,Thomas Bishop,male
+126779,Team I Great Britain,292,Great Britain,GBR,1058461,2,01:28:14,4,550671,163472,2022 World Triathlon Championship Series Leeds,2,50760,Sophie Evans,female
+126779,Team I Great Britain,292,Great Britain,GBR,1058461,2,01:28:14,4,550671,163472,2022 World Triathlon Championship Series Leeds,3,49237,Grant Sheldon,male
+126779,Team I Great Britain,292,Great Britain,GBR,1058461,2,01:28:14,4,550671,163472,2022 World Triathlon Championship Series Leeds,4,49545,Georgia Taylor-Brown,female
+126787,Team I France,166,France,FRA,1058462,3,01:28:20,7,550671,163472,2022 World Triathlon Championship Series Leeds,1,63651,Tom Richard,male
+126787,Team I France,166,France,FRA,1058462,3,01:28:20,7,550671,163472,2022 World Triathlon Championship Series Leeds,2,85273,Sandra Dodet,female
+126787,Team I France,166,France,FRA,1058462,3,01:28:20,7,550671,163472,2022 World Triathlon Championship Series Leeds,3,63162,Léo Bergere,male
+126787,Team I France,166,France,FRA,1058462,3,01:28:20,7,550671,163472,2022 World Triathlon Championship Series Leeds,4,56556,Audrey Merle,female
+126801,Team I Italy,190,Italy,ITA,1058463,4,01:28:32,2,550671,163472,2022 World Triathlon Championship Series Leeds,1,106578,Nicolò Strada,male
+126801,Team I Italy,190,Italy,ITA,1058463,4,01:28:32,2,550671,163472,2022 World Triathlon Championship Series Leeds,2,71740,Ilaria Zane,female
+126801,Team I Italy,190,Italy,ITA,1058463,4,01:28:32,2,550671,163472,2022 World Triathlon Championship Series Leeds,3,106513,Michele Sarzilla,male
+126801,Team I Italy,190,Italy,ITA,1058463,4,01:28:32,2,550671,163472,2022 World Triathlon Championship Series Leeds,4,58449,Verena Steinhauser,female
+126799,Team I Belgium,119,Belgium,BEL,1058464,5,01:28:40,12,550671,163472,2022 World Triathlon Championship Series Leeds,1,71340,Noah Servais,male
+126799,Team I Belgium,119,Belgium,BEL,1058464,5,01:28:40,12,550671,163472,2022 World Triathlon Championship Series Leeds,2,94265,Valerie Barthelemy,female
+126799,Team I Belgium,119,Belgium,BEL,1058464,5,01:28:40,12,550671,163472,2022 World Triathlon Championship Series Leeds,3,39974,Jelle Geens,male
+126799,Team I Belgium,119,Belgium,BEL,1058464,5,01:28:40,12,550671,163472,2022 World Triathlon Championship Series Leeds,4,113106,Jolien Vermeylen,female
+126778,Team I Australia,111,Australia,AUS,1058465,6,01:28:49,6,550671,163472,2022 World Triathlon Championship Series Leeds,1,80795,Matthew Hauser,male
+126778,Team I Australia,111,Australia,AUS,1058465,6,01:28:49,6,550671,163472,2022 World Triathlon Championship Series Leeds,2,123455,Sophie Linn,female
+126778,Team I Australia,111,Australia,AUS,1058465,6,01:28:49,6,550671,163472,2022 World Triathlon Championship Series Leeds,3,45915,Jacob Birtwhistle,male
+126778,Team I Australia,111,Australia,AUS,1058465,6,01:28:49,6,550671,163472,2022 World Triathlon Championship Series Leeds,4,10077,Charlotte McShane,female
+126847,Team I Norway,236,Norway,NOR,1058466,7,01:29:33,21,550671,163472,2022 World Triathlon Championship Series Leeds,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1058466,7,01:29:33,21,550671,163472,2022 World Triathlon Championship Series Leeds,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1058466,7,01:29:33,21,550671,163472,2022 World Triathlon Championship Series Leeds,3,47630,Gustav Iden,male
+126847,Team I Norway,236,Norway,NOR,1058466,7,01:29:33,21,550671,163472,2022 World Triathlon Championship Series Leeds,4,94515,Solveig Løvseth,female
+126798,Team I Portugal,247,Portugal,POR,1058467,8,01:29:52,17,550671,163472,2022 World Triathlon Championship Series Leeds,1,98121,Ricardo Batista,male
+126798,Team I Portugal,247,Portugal,POR,1058467,8,01:29:52,17,550671,163472,2022 World Triathlon Championship Series Leeds,2,47942,Melanie Santos,female
+126798,Team I Portugal,247,Portugal,POR,1058467,8,01:29:52,17,550671,163472,2022 World Triathlon Championship Series Leeds,3,10539,Joao Silva,male
+126798,Team I Portugal,247,Portugal,POR,1058467,8,01:29:52,17,550671,163472,2022 World Triathlon Championship Series Leeds,4,112738,Maria Tomé,female
+126785,Team I United States,293,United States,USA,1058468,9,01:30:17,5,550671,163472,2022 World Triathlon Championship Series Leeds,1,97196,Matthew McElroy,male
+126785,Team I United States,293,United States,USA,1058468,9,01:30:17,5,550671,163472,2022 World Triathlon Championship Series Leeds,2,81334,Taylor Spivey,female
+126785,Team I United States,293,United States,USA,1058468,9,01:30:17,5,550671,163472,2022 World Triathlon Championship Series Leeds,3,76425,Seth Rider,male
+126785,Team I United States,293,United States,USA,1058468,9,01:30:17,5,550671,163472,2022 World Triathlon Championship Series Leeds,4,106041,Erika Ackerlund,female
+126807,Team I Netherlands,230,Netherlands,NED,1058469,10,01:30:29,11,550671,163472,2022 World Triathlon Championship Series Leeds,1,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1058469,10,01:30:29,11,550671,163472,2022 World Triathlon Championship Series Leeds,2,22170,Rachel Klamer,female
+126807,Team I Netherlands,230,Netherlands,NED,1058469,10,01:30:29,11,550671,163472,2022 World Triathlon Championship Series Leeds,3,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1058469,10,01:30:29,11,550671,163472,2022 World Triathlon Championship Series Leeds,4,55701,Maya Kingma,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1058470,11,01:30:45,10,550671,163472,2022 World Triathlon Championship Series Leeds,1,116679,Radim Grebík,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1058470,11,01:30:45,10,550671,163472,2022 World Triathlon Championship Series Leeds,2,26478,Petra Kurikova,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1058470,11,01:30:45,10,550671,163472,2022 World Triathlon Championship Series Leeds,3,41590,Jan Volar,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1058470,11,01:30:45,10,550671,163472,2022 World Triathlon Championship Series Leeds,4,79830,Tereza Zimovjanova,female
+126782,Team I New Zealand,232,New Zealand,NZL,1058471,12,01:30:55,3,550671,163472,2022 World Triathlon Championship Series Leeds,1,54985,Tayler Reid,male
+126782,Team I New Zealand,232,New Zealand,NZL,1058471,12,01:30:55,3,550671,163472,2022 World Triathlon Championship Series Leeds,2,103883,Olivia Thornbury,female
+126782,Team I New Zealand,232,New Zealand,NZL,1058471,12,01:30:55,3,550671,163472,2022 World Triathlon Championship Series Leeds,3,104034,Hayden Wilde,male
+126782,Team I New Zealand,232,New Zealand,NZL,1058471,12,01:30:55,3,550671,163472,2022 World Triathlon Championship Series Leeds,4,6783,Andrea Hansen,female
+126794,Team I Denmark,153,Denmark,DEN,1058472,13,01:31:17,16,550671,163472,2022 World Triathlon Championship Series Leeds,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1058472,13,01:31:17,16,550671,163472,2022 World Triathlon Championship Series Leeds,2,94555,Anne Holm,female
+126794,Team I Denmark,153,Denmark,DEN,1058472,13,01:31:17,16,550671,163472,2022 World Triathlon Championship Series Leeds,3,106438,Oscar Gladney Rundqvist,male
+126794,Team I Denmark,153,Denmark,DEN,1058472,13,01:31:17,16,550671,163472,2022 World Triathlon Championship Series Leeds,4,82017,Alberte Kjær Pedersen,female
+126777,Team I Japan,192,Japan,JPN,1058473,14,01:31:45,19,550671,163472,2022 World Triathlon Championship Series Leeds,1,39264,Kenji Nener,male
+126777,Team I Japan,192,Japan,JPN,1058473,14,01:31:45,19,550671,163472,2022 World Triathlon Championship Series Leeds,2,17285,Yuko Takahashi,female
+126777,Team I Japan,192,Japan,JPN,1058473,14,01:31:45,19,550671,163472,2022 World Triathlon Championship Series Leeds,3,98547,Takumi Hojo,male
+126777,Team I Japan,192,Japan,JPN,1058473,14,01:31:45,19,550671,163472,2022 World Triathlon Championship Series Leeds,4,115034,Sarika Nakayama,female
+126774,Team I Hungary,182,Hungary,HUN,1058474,15,01:32:46,15,550671,163472,2022 World Triathlon Championship Series Leeds,1,94446,Csongor Lehmann,male
+126774,Team I Hungary,182,Hungary,HUN,1058474,15,01:32:46,15,550671,163472,2022 World Triathlon Championship Series Leeds,2,127941,Márta Kropkó,female
+126774,Team I Hungary,182,Hungary,HUN,1058474,15,01:32:46,15,550671,163472,2022 World Triathlon Championship Series Leeds,3,50700,Bence Bicsák,male
+126774,Team I Hungary,182,Hungary,HUN,1058474,15,01:32:46,15,550671,163472,2022 World Triathlon Championship Series Leeds,4,58549,Noémi Sárszegi,female
+126780,Team I Spain,270,Spain,ESP,1058475,16,01:34:13,9,550671,163472,2022 World Triathlon Championship Series Leeds,1,74419,Alberto Gonzalez Garcia,male
+126780,Team I Spain,270,Spain,ESP,1058475,16,01:34:13,9,550671,163472,2022 World Triathlon Championship Series Leeds,2,98106,Iria Rodriguez,female
+126780,Team I Spain,270,Spain,ESP,1058475,16,01:34:13,9,550671,163472,2022 World Triathlon Championship Series Leeds,3,125289,Juan Gonzalez Garcia,male
+126780,Team I Spain,270,Spain,ESP,1058475,16,01:34:13,9,550671,163472,2022 World Triathlon Championship Series Leeds,4,132893,María Casals Mojica,female
+126802,Team I Sweden,275,Sweden,SWE,1058479,DNS,DNS,18,550671,163472,2022 World Triathlon Championship Series Leeds,1,72784,Gabriel Sandör,male
+126802,Team I Sweden,275,Sweden,SWE,1058479,DNS,DNS,18,550671,163472,2022 World Triathlon Championship Series Leeds,2,104981,Emma Varga,female
+126802,Team I Sweden,275,Sweden,SWE,1058479,DNS,DNS,18,550671,163472,2022 World Triathlon Championship Series Leeds,3,98134,Daniel Nou,male
+126802,Team I Sweden,275,Sweden,SWE,1058479,DNS,DNS,18,550671,163472,2022 World Triathlon Championship Series Leeds,4,135878,Linn Suchomel,female
+126783,Team I Switzerland,276,Switzerland,SUI,1058476,LAP,LAP,8,550671,163472,2022 World Triathlon Championship Series Leeds,1,117248,Fabian Meeusen,male
+126783,Team I Switzerland,276,Switzerland,SUI,1058476,LAP,LAP,8,550671,163472,2022 World Triathlon Championship Series Leeds,2,115147,Nora Gmür,female
+126783,Team I Switzerland,276,Switzerland,SUI,1058476,LAP,LAP,8,550671,163472,2022 World Triathlon Championship Series Leeds,3,58385,Sylvain Fridelance,male
+126783,Team I Switzerland,276,Switzerland,SUI,1058476,LAP,LAP,8,550671,163472,2022 World Triathlon Championship Series Leeds,4,84816,Julie Derron,female
+126789,Team I Austria,112,Austria,AUT,1058477,LAP,LAP,14,550671,163472,2022 World Triathlon Championship Series Leeds,1,21622,Alois Knabl,male
+126789,Team I Austria,112,Austria,AUT,1058477,LAP,LAP,14,550671,163472,2022 World Triathlon Championship Series Leeds,2,17670,Sara Vilic,female
+126789,Team I Austria,112,Austria,AUT,1058477,LAP,LAP,14,550671,163472,2022 World Triathlon Championship Series Leeds,3,94563,Tjebbe Kaindl,male
+126789,Team I Austria,112,Austria,AUT,1058477,LAP,LAP,14,550671,163472,2022 World Triathlon Championship Series Leeds,4,41079,Julia Hauser,female
+126781,Team I Mexico,219,Mexico,MEX,1058478,LAP,LAP,20,550671,163472,2022 World Triathlon Championship Series Leeds,1,6186,Irving Perez,male
+126781,Team I Mexico,219,Mexico,MEX,1058478,LAP,LAP,20,550671,163472,2022 World Triathlon Championship Series Leeds,2,73426,Lizeth Rueda Santos,female
+126781,Team I Mexico,219,Mexico,MEX,1058478,LAP,LAP,20,550671,163472,2022 World Triathlon Championship Series Leeds,3,7503,Crisanto Grajales Valencia,male
+126781,Team I Mexico,219,Mexico,MEX,1058478,LAP,LAP,20,550671,163472,2022 World Triathlon Championship Series Leeds,4,132421,Anahi Alvarez Corral,female
+126787,Team I France,166,France,FRA,1063405,1,01:27:14,6,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,30249,Pierre Le Corre,male
+126787,Team I France,166,France,FRA,1063405,1,01:27:14,6,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,125375,Emma Lombardi,female
+126787,Team I France,166,France,FRA,1063405,1,01:27:14,6,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,11143,Vincent Luis,male
+126787,Team I France,166,France,FRA,1063405,1,01:27:14,6,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,63163,Cassandre Beaugrand,female
+126779,Team I Great Britain,292,Great Britain,GBR,1063406,2,01:27:37,1,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,96742,Alex Yee,male
+126779,Team I Great Britain,292,Great Britain,GBR,1063406,2,01:27:37,1,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,50760,Sophie Evans,female
+126779,Team I Great Britain,292,Great Britain,GBR,1063406,2,01:27:37,1,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,88205,Samuel Dickinson,male
+126779,Team I Great Britain,292,Great Britain,GBR,1063406,2,01:27:37,1,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,49545,Georgia Taylor-Brown,female
+126785,Team I United States,293,United States,USA,1063407,3,01:27:44,3,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,76425,Seth Rider,male
+126785,Team I United States,293,United States,USA,1063407,3,01:27:44,3,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,81334,Taylor Spivey,female
+126785,Team I United States,293,United States,USA,1063407,3,01:27:44,3,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,18714,Kevin McDowell,male
+126785,Team I United States,293,United States,USA,1063407,3,01:27:44,3,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,83096,Summer Rappaport,female
+126782,Team I New Zealand,232,New Zealand,NZL,1063408,4,01:27:53,4,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,104034,Hayden Wilde,male
+126782,Team I New Zealand,232,New Zealand,NZL,1063408,4,01:27:53,4,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,92305,Ainsley Thorpe,female
+126782,Team I New Zealand,232,New Zealand,NZL,1063408,4,01:27:53,4,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,54985,Tayler Reid,male
+126782,Team I New Zealand,232,New Zealand,NZL,1063408,4,01:27:53,4,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,64750,Nicole Van Der Kaay,female
+126773,Team I Canada,135,Canada,CAN,1063409,5,01:29:06,11,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,49411,Tyler Mislawchuk,male
+126773,Team I Canada,135,Canada,CAN,1063409,5,01:29:06,11,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,69055,Emy Legault,female
+126773,Team I Canada,135,Canada,CAN,1063409,5,01:29:06,11,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,79706,Charles Paquet,male
+126773,Team I Canada,135,Canada,CAN,1063409,5,01:29:06,11,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,39381,Dominika Jamnicky,female
+126783,Team I Switzerland,276,Switzerland,SUI,1063410,6,01:29:11,8,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,58385,Sylvain Fridelance,male
+126783,Team I Switzerland,276,Switzerland,SUI,1063410,6,01:29:11,8,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,115148,Cathia Schär,female
+126783,Team I Switzerland,276,Switzerland,SUI,1063410,6,01:29:11,8,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,106414,Sasha Caterina,male
+126783,Team I Switzerland,276,Switzerland,SUI,1063410,6,01:29:11,8,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,115147,Nora Gmür,female
+126794,Team I Denmark,153,Denmark,DEN,1063411,7,01:29:22,12,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1063411,7,01:29:22,12,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,82017,Alberte Kjær Pedersen,female
+126794,Team I Denmark,153,Denmark,DEN,1063411,7,01:29:22,12,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,106438,Oscar Gladney Rundqvist,male
+126794,Team I Denmark,153,Denmark,DEN,1063411,7,01:29:22,12,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,94555,Anne Holm,female
+126798,Team I Portugal,247,Portugal,POR,1063412,8,01:29:32,14,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,98121,Ricardo Batista,male
+126798,Team I Portugal,247,Portugal,POR,1063412,8,01:29:32,14,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,47942,Melanie Santos,female
+126798,Team I Portugal,247,Portugal,POR,1063412,8,01:29:32,14,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,10539,Joao Silva,male
+126798,Team I Portugal,247,Portugal,POR,1063412,8,01:29:32,14,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,112738,Maria Tomé,female
+126801,Team I Italy,190,Italy,ITA,1063413,9,01:29:34,2,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,106578,Nicolò Strada,male
+126801,Team I Italy,190,Italy,ITA,1063413,9,01:29:34,2,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,106581,Bianca Seregni,female
+126801,Team I Italy,190,Italy,ITA,1063413,9,01:29:34,2,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,71738,Gianluca Pozzatti,male
+126801,Team I Italy,190,Italy,ITA,1063413,9,01:29:34,2,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,96506,Carlotta Missaglia,female
+126778,Team I Australia,111,Australia,AUS,1063414,10,01:29:37,5,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,92397,Brandon Copeland,male
+126778,Team I Australia,111,Australia,AUS,1063414,10,01:29:37,5,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,45907,Natalie Van Coevorden,female
+126778,Team I Australia,111,Australia,AUS,1063414,10,01:29:37,5,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,45915,Jacob Birtwhistle,male
+126778,Team I Australia,111,Australia,AUS,1063414,10,01:29:37,5,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,54913,Jaz Hedgeland,female
+126780,Team I Spain,270,Spain,ESP,1063415,11,01:29:59,10,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,63428,Antonio Serrat Seoane,male
+126780,Team I Spain,270,Spain,ESP,1063415,11,01:29:59,10,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,31827,Anna Godoy Contreras,female
+126780,Team I Spain,270,Spain,ESP,1063415,11,01:29:59,10,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,63429,Roberto Sanchez Mantecon,male
+126780,Team I Spain,270,Spain,ESP,1063415,11,01:29:59,10,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,75945,Sara Perez Sala,female
+126847,Team I Norway,236,Norway,NOR,1063416,12,01:31:19,16,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1063416,12,01:31:19,16,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1063416,12,01:31:19,16,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,127536,Sebastian Wernersen,male
+126847,Team I Norway,236,Norway,NOR,1063416,12,01:31:19,16,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,94515,Solveig Løvseth,female
+126781,Team I Mexico,219,Mexico,MEX,1063417,13,01:31:56,17,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,6186,Irving Perez,male
+126781,Team I Mexico,219,Mexico,MEX,1063417,13,01:31:56,17,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,73426,Lizeth Rueda Santos,female
+126781,Team I Mexico,219,Mexico,MEX,1063417,13,01:31:56,17,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,12773,Rodrigo Gonzalez Lopez,male
+126781,Team I Mexico,219,Mexico,MEX,1063417,13,01:31:56,17,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,132421,Anahi Alvarez Corral,female
+126807,Team I Netherlands,230,Netherlands,NED,1063418,14,01:31:57,9,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1063418,14,01:31:57,9,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,22170,Rachel Klamer,female
+126807,Team I Netherlands,230,Netherlands,NED,1063418,14,01:31:57,9,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1063418,14,01:31:57,9,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,123462,Barbara De Koning,female
+126799,Team I Belgium,119,Belgium,BEL,1063420,DNS,DNS,7,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,39974,Jelle Geens,male
+126799,Team I Belgium,119,Belgium,BEL,1063420,DNS,DNS,7,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,94265,Valerie Barthelemy,female
+126799,Team I Belgium,119,Belgium,BEL,1063420,DNS,DNS,7,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,40311,Marten Van Riel,male
+126799,Team I Belgium,119,Belgium,BEL,1063420,DNS,DNS,7,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,83091,Hanne De Vet,female
+126777,Team I Japan,192,Japan,JPN,1063421,DSQ,DSQ,15,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,98547,Takumi Hojo,male
+126777,Team I Japan,192,Japan,JPN,1063421,DSQ,DSQ,15,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,18592,Yuka Sato,female
+126777,Team I Japan,192,Japan,JPN,1063421,DSQ,DSQ,15,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,39264,Kenji Nener,male
+126777,Team I Japan,192,Japan,JPN,1063421,DSQ,DSQ,15,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,84982,Hiraku Fukuoka,female
+126775,Team I Brazil,127,Brazil,BRA,1063419,DNF,,18,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,1,69143,Manoel Messias,male
+126775,Team I Brazil,127,Brazil,BRA,1063419,DNF,,18,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,2,81882,Vittoria Lopes,female
+126775,Team I Brazil,127,Brazil,BRA,1063419,DNF,,18,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,3,125038,Antonio Bravo Neto,male
+126775,Team I Brazil,127,Brazil,BRA,1063419,DNF,,18,547005,159913,2022 World Triathlon Sprint and Relay Championships Montreal,4,125061,Djenyfer Arnold,female
+126779,Team I Great Britain,292,Great Britain,GBR,1064347,1,01:20:50,2,546860,163476,2022 World Triathlon Championship Series Hamburg,1,98137,Barclay Izzard,male
+126779,Team I Great Britain,292,Great Britain,GBR,1064347,1,01:20:50,2,546860,163476,2022 World Triathlon Championship Series Hamburg,2,71161,Sian Rainsley,female
+126779,Team I Great Britain,292,Great Britain,GBR,1064347,1,01:20:50,2,546860,163476,2022 World Triathlon Championship Series Hamburg,3,88205,Samuel Dickinson,male
+126779,Team I Great Britain,292,Great Britain,GBR,1064347,1,01:20:50,2,546860,163476,2022 World Triathlon Championship Series Hamburg,4,86051,Kate Waugh,female
+126778,Team I Australia,111,Australia,AUS,1064348,2,01:21:03,7,546860,163476,2022 World Triathlon Championship Series Hamburg,1,55495,Luke Willian,male
+126778,Team I Australia,111,Australia,AUS,1064348,2,01:21:03,7,546860,163476,2022 World Triathlon Championship Series Hamburg,2,123455,Sophie Linn,female
+126778,Team I Australia,111,Australia,AUS,1064348,2,01:21:03,7,546860,163476,2022 World Triathlon Championship Series Hamburg,3,80795,Matthew Hauser,male
+126778,Team I Australia,111,Australia,AUS,1064348,2,01:21:03,7,546860,163476,2022 World Triathlon Championship Series Hamburg,4,45907,Natalie Van Coevorden,female
+126776,Team I Germany,170,Germany,GER,1064349,3,01:21:10,1,546860,163476,2022 World Triathlon Championship Series Hamburg,1,61357,Valentin Wernz,male
+126776,Team I Germany,170,Germany,GER,1064349,3,01:21:10,1,546860,163476,2022 World Triathlon Championship Series Hamburg,2,79065,Lisa Tertsch,female
+126776,Team I Germany,170,Germany,GER,1064349,3,01:21:10,1,546860,163476,2022 World Triathlon Championship Series Hamburg,3,73078,Lasse Nygaard Priester,male
+126776,Team I Germany,170,Germany,GER,1064349,3,01:21:10,1,546860,163476,2022 World Triathlon Championship Series Hamburg,4,70413,Laura Lindemann,female
+126783,Team I Switzerland,276,Switzerland,SUI,1064350,4,01:21:26,9,546860,163476,2022 World Triathlon Championship Series Hamburg,1,70032,Max Studer,male
+126783,Team I Switzerland,276,Switzerland,SUI,1064350,4,01:21:26,9,546860,163476,2022 World Triathlon Championship Series Hamburg,2,115148,Cathia Schär,female
+126783,Team I Switzerland,276,Switzerland,SUI,1064350,4,01:21:26,9,546860,163476,2022 World Triathlon Championship Series Hamburg,3,98098,Simon Westermann,male
+126783,Team I Switzerland,276,Switzerland,SUI,1064350,4,01:21:26,9,546860,163476,2022 World Triathlon Championship Series Hamburg,4,84816,Julie Derron,female
+126782,Team I New Zealand,232,New Zealand,NZL,1064351,5,01:22:12,5,546860,163476,2022 World Triathlon Championship Series Hamburg,1,104034,Hayden Wilde,male
+126782,Team I New Zealand,232,New Zealand,NZL,1064351,5,01:22:12,5,546860,163476,2022 World Triathlon Championship Series Hamburg,2,64750,Nicole Van Der Kaay,female
+126782,Team I New Zealand,232,New Zealand,NZL,1064351,5,01:22:12,5,546860,163476,2022 World Triathlon Championship Series Hamburg,3,103632,Dylan McCullough,male
+126782,Team I New Zealand,232,New Zealand,NZL,1064351,5,01:22:12,5,546860,163476,2022 World Triathlon Championship Series Hamburg,4,6783,Andrea Hansen,female
+126774,Team I Hungary,182,Hungary,HUN,1064352,6,01:22:30,17,546860,163476,2022 World Triathlon Championship Series Hamburg,1,11001,Gábor Faldum,male
+126774,Team I Hungary,182,Hungary,HUN,1064352,6,01:22:30,17,546860,163476,2022 World Triathlon Championship Series Hamburg,2,16368,Zsanett Kuttor-Bragmayer,female
+126774,Team I Hungary,182,Hungary,HUN,1064352,6,01:22:30,17,546860,163476,2022 World Triathlon Championship Series Hamburg,3,56153,Márk Dévay,male
+126774,Team I Hungary,182,Hungary,HUN,1064352,6,01:22:30,17,546860,163476,2022 World Triathlon Championship Series Hamburg,4,116271,Karolina Helga Horváth,female
+126787,Team I France,166,France,FRA,1064353,7,01:22:53,3,546860,163476,2022 World Triathlon Championship Series Hamburg,1,106595,Valentin Morlec,male
+126787,Team I France,166,France,FRA,1064353,7,01:22:53,3,546860,163476,2022 World Triathlon Championship Series Hamburg,2,80605,Mathilde Gautier,female
+126787,Team I France,166,France,FRA,1064353,7,01:22:53,3,546860,163476,2022 World Triathlon Championship Series Hamburg,3,98124,Paul Georgenthum,male
+126787,Team I France,166,France,FRA,1064353,7,01:22:53,3,546860,163476,2022 World Triathlon Championship Series Hamburg,4,125375,Emma Lombardi,female
+126777,Team I Japan,192,Japan,JPN,1064354,8,01:23:26,19,546860,163476,2022 World Triathlon Championship Series Hamburg,1,39264,Kenji Nener,male
+126777,Team I Japan,192,Japan,JPN,1064354,8,01:23:26,19,546860,163476,2022 World Triathlon Championship Series Hamburg,2,17285,Yuko Takahashi,female
+126777,Team I Japan,192,Japan,JPN,1064354,8,01:23:26,19,546860,163476,2022 World Triathlon Championship Series Hamburg,3,98547,Takumi Hojo,male
+126777,Team I Japan,192,Japan,JPN,1064354,8,01:23:26,19,546860,163476,2022 World Triathlon Championship Series Hamburg,4,95441,Miyu Sakai,female
+126794,Team I Denmark,153,Denmark,DEN,1064355,9,01:23:32,11,546860,163476,2022 World Triathlon Championship Series Hamburg,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1064355,9,01:23:32,11,546860,163476,2022 World Triathlon Championship Series Hamburg,2,82017,Alberte Kjær Pedersen,female
+126794,Team I Denmark,153,Denmark,DEN,1064355,9,01:23:32,11,546860,163476,2022 World Triathlon Championship Series Hamburg,3,106436,Scott Steenberg,male
+126794,Team I Denmark,153,Denmark,DEN,1064355,9,01:23:32,11,546860,163476,2022 World Triathlon Championship Series Hamburg,4,94555,Anne Holm,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1064356,10,01:24:11,15,546860,163476,2022 World Triathlon Championship Series Hamburg,1,116679,Radim Grebík,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1064356,10,01:24:11,15,546860,163476,2022 World Triathlon Championship Series Hamburg,2,26478,Petra Kurikova,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1064356,10,01:24:11,15,546860,163476,2022 World Triathlon Championship Series Hamburg,3,41590,Jan Volar,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1064356,10,01:24:11,15,546860,163476,2022 World Triathlon Championship Series Hamburg,4,140952,Dana Prikrylova,female
+126780,Team I Spain,270,Spain,ESP,1064357,11,01:24:18,12,546860,163476,2022 World Triathlon Championship Series Hamburg,1,123693,Igor Bellido Mikhailova,male
+126780,Team I Spain,270,Spain,ESP,1064357,11,01:24:18,12,546860,163476,2022 World Triathlon Championship Series Hamburg,2,79637,Noelia Juan,female
+126780,Team I Spain,270,Spain,ESP,1064357,11,01:24:18,12,546860,163476,2022 World Triathlon Championship Series Hamburg,3,125287,Esteban Basanta Fouz,male
+126780,Team I Spain,270,Spain,ESP,1064357,11,01:24:18,12,546860,163476,2022 World Triathlon Championship Series Hamburg,4,122267,Marta Pintanel Raymundo,female
+126799,Team I Belgium,119,Belgium,BEL,1064358,12,01:24:38,14,546860,163476,2022 World Triathlon Championship Series Hamburg,1,39974,Jelle Geens,male
+126799,Team I Belgium,119,Belgium,BEL,1064358,12,01:24:38,14,546860,163476,2022 World Triathlon Championship Series Hamburg,2,113106,Jolien Vermeylen,female
+126799,Team I Belgium,119,Belgium,BEL,1064358,12,01:24:38,14,546860,163476,2022 World Triathlon Championship Series Hamburg,3,42996,Erwin Vanderplancke,male
+126799,Team I Belgium,119,Belgium,BEL,1064358,12,01:24:38,14,546860,163476,2022 World Triathlon Championship Series Hamburg,4,83091,Hanne De Vet,female
+126785,Team I United States,293,United States,USA,1064359,13,01:24:38,4,546860,163476,2022 World Triathlon Championship Series Hamburg,1,96667,Chase McQueen,male
+126785,Team I United States,293,United States,USA,1064359,13,01:24:38,4,546860,163476,2022 World Triathlon Championship Series Hamburg,2,81334,Taylor Spivey,female
+126785,Team I United States,293,United States,USA,1064359,13,01:24:38,4,546860,163476,2022 World Triathlon Championship Series Hamburg,3,76425,Seth Rider,male
+126785,Team I United States,293,United States,USA,1064359,13,01:24:38,4,546860,163476,2022 World Triathlon Championship Series Hamburg,4,106041,Erika Ackerlund,female
+126775,Team I Brazil,127,Brazil,BRA,1064360,14,01:25:03,21,546860,163476,2022 World Triathlon Championship Series Hamburg,1,69143,Manoel Messias,male
+126775,Team I Brazil,127,Brazil,BRA,1064360,14,01:25:03,21,546860,163476,2022 World Triathlon Championship Series Hamburg,2,81882,Vittoria Lopes,female
+126775,Team I Brazil,127,Brazil,BRA,1064360,14,01:25:03,21,546860,163476,2022 World Triathlon Championship Series Hamburg,3,125038,Antonio Bravo Neto,male
+126775,Team I Brazil,127,Brazil,BRA,1064360,14,01:25:03,21,546860,163476,2022 World Triathlon Championship Series Hamburg,4,125061,Djenyfer Arnold,female
+126801,Team I Italy,190,Italy,ITA,1064361,15,01:25:28,6,546860,163476,2022 World Triathlon Championship Series Hamburg,1,33705,Nicola Azzano,male
+126801,Team I Italy,190,Italy,ITA,1064361,15,01:25:28,6,546860,163476,2022 World Triathlon Championship Series Hamburg,2,71740,Ilaria Zane,female
+126801,Team I Italy,190,Italy,ITA,1064361,15,01:25:28,6,546860,163476,2022 World Triathlon Championship Series Hamburg,3,106513,Michele Sarzilla,male
+126801,Team I Italy,190,Italy,ITA,1064361,15,01:25:28,6,546860,163476,2022 World Triathlon Championship Series Hamburg,4,58449,Verena Steinhauser,female
+126802,Team I Sweden,275,Sweden,SWE,1064362,16,01:26:23,20,546860,163476,2022 World Triathlon Championship Series Hamburg,1,106501,Andreas Carlsson,male
+126802,Team I Sweden,275,Sweden,SWE,1064362,16,01:26:23,20,546860,163476,2022 World Triathlon Championship Series Hamburg,2,104981,Emma Varga,female
+126802,Team I Sweden,275,Sweden,SWE,1064362,16,01:26:23,20,546860,163476,2022 World Triathlon Championship Series Hamburg,3,72784,Gabriel Sandör,male
+126802,Team I Sweden,275,Sweden,SWE,1064362,16,01:26:23,20,546860,163476,2022 World Triathlon Championship Series Hamburg,4,72782,Marie Carlsson,female
+126807,Team I Netherlands,230,Netherlands,NED,1064365,DNS,DNS,10,546860,163476,2022 World Triathlon Championship Series Hamburg,1,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1064365,DNS,DNS,10,546860,163476,2022 World Triathlon Championship Series Hamburg,2,22170,Rachel Klamer,female
+126807,Team I Netherlands,230,Netherlands,NED,1064365,DNS,DNS,10,546860,163476,2022 World Triathlon Championship Series Hamburg,3,51350,Jorik Van Egdom,male
+126807,Team I Netherlands,230,Netherlands,NED,1064365,DNS,DNS,10,546860,163476,2022 World Triathlon Championship Series Hamburg,4,55701,Maya Kingma,female
+126798,Team I Portugal,247,Portugal,POR,1064366,DNS,DNS,16,546860,163476,2022 World Triathlon Championship Series Hamburg,1,86042,Vasco Vilaca,male
+126798,Team I Portugal,247,Portugal,POR,1064366,DNS,DNS,16,546860,163476,2022 World Triathlon Championship Series Hamburg,2,47942,Melanie Santos,female
+126798,Team I Portugal,247,Portugal,POR,1064366,DNS,DNS,16,546860,163476,2022 World Triathlon Championship Series Hamburg,3,10539,Joao Silva,male
+126798,Team I Portugal,247,Portugal,POR,1064366,DNS,DNS,16,546860,163476,2022 World Triathlon Championship Series Hamburg,4,112738,Maria Tomé,female
+126781,Team I Mexico,219,Mexico,MEX,1064364,LAP,LAP,18,546860,163476,2022 World Triathlon Championship Series Hamburg,1,22522,David Mendoza,male
+126781,Team I Mexico,219,Mexico,MEX,1064364,LAP,LAP,18,546860,163476,2022 World Triathlon Championship Series Hamburg,2,73426,Lizeth Rueda Santos,female
+126781,Team I Mexico,219,Mexico,MEX,1064364,LAP,LAP,18,546860,163476,2022 World Triathlon Championship Series Hamburg,3,124356,Eduardo Nuñez Gomez,male
+126781,Team I Mexico,219,Mexico,MEX,1064364,LAP,LAP,18,546860,163476,2022 World Triathlon Championship Series Hamburg,4,80813,Rosa Maria Tapia Vidal,female
+126773,Team I Canada,135,Canada,CAN,1064363,DNF,,8,546860,163476,2022 World Triathlon Championship Series Hamburg,1,115502,Brock Hoel,male
+126773,Team I Canada,135,Canada,CAN,1064363,DNF,,8,546860,163476,2022 World Triathlon Championship Series Hamburg,2,69055,Emy Legault,female
+126773,Team I Canada,135,Canada,CAN,1064363,DNF,,8,546860,163476,2022 World Triathlon Championship Series Hamburg,3,73377,Jeremy Briand,male
+126773,Team I Canada,135,Canada,CAN,1064363,DNF,,8,546860,163476,2022 World Triathlon Championship Series Hamburg,4,39381,Dominika Jamnicky,female
+126823,Team I Ecuador,157,Ecuador,ECU,1110558,1,01:27:05,2,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,56054,Ramón Armando Matute,male
+126823,Team I Ecuador,157,Ecuador,ECU,1110558,1,01:27:05,2,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,70073,Paula Jara,female
+126823,Team I Ecuador,157,Ecuador,ECU,1110558,1,01:27:05,2,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,112754,Gabriel Terán Carvajal,male
+126823,Team I Ecuador,157,Ecuador,ECU,1110558,1,01:27:05,2,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,7525,Elizabeth Bravo,female
+126816,Team I Chile,140,Chile,CHI,1110559,2,01:27:05,3,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,112657,Cristóbal Baeza Muñoz,male
+126816,Team I Chile,140,Chile,CHI,1110559,2,01:27:05,3,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,55743,Catalina Salazar,female
+126816,Team I Chile,140,Chile,CHI,1110559,2,01:27:05,3,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,7167,Gaspar Riveros,male
+126816,Team I Chile,140,Chile,CHI,1110559,2,01:27:05,3,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,141319,Dominga Elena Jacome Espinoza,female
+126790,Team I Argentina,108,Argentina,ARG,1110560,3,01:28:34,4,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,165255,Thomas Castañeda Maldonado,male
+126790,Team I Argentina,108,Argentina,ARG,1110560,3,01:28:34,4,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,93585,Moira Miranda,female
+126790,Team I Argentina,108,Argentina,ARG,1110560,3,01:28:34,4,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,79840,Ivan Anzaldo,male
+126790,Team I Argentina,108,Argentina,ARG,1110560,3,01:28:34,4,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,21487,Romina Biagioli,female
+126793,Team I Venezuela,297,Venezuela,VEN,1110561,4,01:30:22,6,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,168086,Yhousman David Perdomo Peña,male
+126793,Team I Venezuela,297,Venezuela,VEN,1110561,4,01:30:22,6,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,89986,Genesis Carolina Ruiz Volcan,female
+126793,Team I Venezuela,297,Venezuela,VEN,1110561,4,01:30:22,6,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,165626,Samuel Abraham Piña Barco,male
+126793,Team I Venezuela,297,Venezuela,VEN,1110561,4,01:30:22,6,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,168089,Rosa Elena Martinez Melchior,female
+126775,Team I Brazil,127,Brazil,BRA,1110562,5,01:30:23,1,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,133128,Caua Diniz,male
+126775,Team I Brazil,127,Brazil,BRA,1110562,5,01:30:23,1,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,161759,Julia Munhoz,female
+126775,Team I Brazil,127,Brazil,BRA,1110562,5,01:30:23,1,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,166683,Luca Ascenco,male
+126775,Team I Brazil,127,Brazil,BRA,1110562,5,01:30:23,1,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,132926,Amanda Moro,female
+126851,Team I Peru,244,Peru,PER,1110563,6,01:36:19,5,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,82645,Alberto Oswaldo Chumpitaz Cruz,male
+126851,Team I Peru,244,Peru,PER,1110563,6,01:36:19,5,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,131972,Gianella Debra Coaguila Pita,female
+126851,Team I Peru,244,Peru,PER,1110563,6,01:36:19,5,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,143294,Brener Valencia Nuñez,male
+126851,Team I Peru,244,Peru,PER,1110563,6,01:36:19,5,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,163528,Mariajose Torres Torres,female
+126989,Team II Chile,140,Chile,CHI,1110564,NC,01:28:22,8,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,123609,Fernando Jacome,male
+126989,Team II Chile,140,Chile,CHI,1110564,NC,01:28:22,8,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,55742,Macarena Salazar,female
+126989,Team II Chile,140,Chile,CHI,1110564,NC,01:28:22,8,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,110028,Mateo Mendoza Burgos,male
+126989,Team II Chile,140,Chile,CHI,1110564,NC,01:28:22,8,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,112658,Daniela Moya Chamorro,female
+126996,Team II Ecuador,157,Ecuador,ECU,1110565,NC,01:30:01,7,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,39560,Juan Jose Andrade Figueroa,male
+126996,Team II Ecuador,157,Ecuador,ECU,1110565,NC,01:30:01,7,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,112757,Paula Vega,female
+126996,Team II Ecuador,157,Ecuador,ECU,1110565,NC,01:30:01,7,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,124906,Matias Sebastian Bravo Delgado,male
+126996,Team II Ecuador,157,Ecuador,ECU,1110565,NC,01:30:01,7,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,124909,Josseline Michelle Yuqui Peralta,female
+126963,Team II Argentina,108,Argentina,ARG,1110566,NC,01:34:03,9,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,46216,Flavio Morandini,male
+126963,Team II Argentina,108,Argentina,ARG,1110566,NC,01:34:03,9,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,166822,Sofia De Rosas,female
+126963,Team II Argentina,108,Argentina,ARG,1110566,NC,01:34:03,9,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,102824,Ibrahim Alucin,male
+126963,Team II Argentina,108,Argentina,ARG,1110566,NC,01:34:03,9,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,172565,Tiago Muñoz,male
+127140,Team III Chile,140,Chile,CHI,1110567,NC,01:34:26,10,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,166876,Daniel Ubilla Sabada,male
+127140,Team III Chile,140,Chile,CHI,1110567,NC,01:34:26,10,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,132950,Fernanda Orellana,female
+127140,Team III Chile,140,Chile,CHI,1110567,NC,01:34:26,10,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,163546,Sebastián Ignacio Colillanca Uribe,male
+127140,Team III Chile,140,Chile,CHI,1110567,NC,01:34:26,10,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,166877,Antonia Vasquez Valenzuela,female
+179578,Team III Ecuador,157,Ecuador,ECU,1110568,NC,01:35:46,11,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,1,132998,David Vega Campoverde,male
+179578,Team III Ecuador,157,Ecuador,ECU,1110568,NC,01:35:46,11,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,2,101601,Nancy Lojano Tepan,female
+179578,Team III Ecuador,157,Ecuador,ECU,1110568,NC,01:35:46,11,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,3,124908,Joaquin Solis Narvaez,male
+179578,Team III Ecuador,157,Ecuador,ECU,1110568,NC,01:35:46,11,590029,173569,2023 Americas Triathlon Cup and South American Championships Lima,4,133000,Maria De Los Angeles Bonilla Garcia,female
+126776,Team I Germany,170,Germany,GER,1125578,1,01:22:08,3,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,106885,Tim Hellwig,male
+126776,Team I Germany,170,Germany,GER,1125578,1,01:22:08,3,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,106503,Annika Koch,female
+126776,Team I Germany,170,Germany,GER,1125578,1,01:22:08,3,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,106950,Simon Henseleit,male
+126776,Team I Germany,170,Germany,GER,1125578,1,01:22:08,3,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,70413,Laura Lindemann,female
+126782,Team I New Zealand,232,New Zealand,NZL,1125579,2,01:22:27,4,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,104034,Hayden Wilde,male
+126782,Team I New Zealand,232,New Zealand,NZL,1125579,2,01:22:27,4,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,92305,Ainsley Thorpe,female
+126782,Team I New Zealand,232,New Zealand,NZL,1125579,2,01:22:27,4,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,54985,Tayler Reid,male
+126782,Team I New Zealand,232,New Zealand,NZL,1125579,2,01:22:27,4,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,64750,Nicole Van Der Kaay,female
+126783,Team I Switzerland,276,Switzerland,SUI,1125580,3,01:22:35,6,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,70032,Max Studer,male
+126783,Team I Switzerland,276,Switzerland,SUI,1125580,3,01:22:35,6,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,84816,Julie Derron,female
+126783,Team I Switzerland,276,Switzerland,SUI,1125580,3,01:22:35,6,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,58385,Sylvain Fridelance,male
+126783,Team I Switzerland,276,Switzerland,SUI,1125580,3,01:22:35,6,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,115148,Cathia Schär,female
+126785,Team I United States,293,United States,USA,1125581,4,01:22:55,1,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,76425,Seth Rider,male
+126785,Team I United States,293,United States,USA,1125581,4,01:22:55,1,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,81334,Taylor Spivey,female
+126785,Team I United States,293,United States,USA,1125581,4,01:22:55,1,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,97196,Matthew McElroy,male
+126785,Team I United States,293,United States,USA,1125581,4,01:22:55,1,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,83096,Summer Rappaport,female
+126774,Team I Hungary,182,Hungary,HUN,1125582,5,01:23:05,15,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,94446,Csongor Lehmann,male
+126774,Team I Hungary,182,Hungary,HUN,1125582,5,01:23:05,15,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,16368,Zsanett Kuttor-Bragmayer,female
+126774,Team I Hungary,182,Hungary,HUN,1125582,5,01:23:05,15,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,56153,Márk Dévay,male
+126774,Team I Hungary,182,Hungary,HUN,1125582,5,01:23:05,15,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,127941,Márta Kropkó,female
+126778,Team I Australia,111,Australia,AUS,1125583,6,01:23:15,7,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,80795,Matthew Hauser,male
+126778,Team I Australia,111,Australia,AUS,1125583,6,01:23:15,7,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,45907,Natalie Van Coevorden,female
+126778,Team I Australia,111,Australia,AUS,1125583,6,01:23:15,7,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,45915,Jacob Birtwhistle,male
+126778,Team I Australia,111,Australia,AUS,1125583,6,01:23:15,7,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,54913,Jaz Hedgeland,female
+126847,Team I Norway,236,Norway,NOR,1125584,7,01:23:27,16,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1125584,7,01:23:27,16,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1125584,7,01:23:27,16,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,76434,Casper Stornes,male
+126847,Team I Norway,236,Norway,NOR,1125584,7,01:23:27,16,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,94515,Solveig Løvseth,female
+126775,Team I Brazil,127,Brazil,BRA,1125585,8,01:23:36,17,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,105480,Miguel Hidalgo,male
+126775,Team I Brazil,127,Brazil,BRA,1125585,8,01:23:36,17,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,81882,Vittoria Lopes,female
+126775,Team I Brazil,127,Brazil,BRA,1125585,8,01:23:36,17,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,69143,Manoel Messias,male
+126775,Team I Brazil,127,Brazil,BRA,1125585,8,01:23:36,17,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,125061,Djenyfer Arnold,female
+126801,Team I Italy,190,Italy,ITA,1125586,9,01:23:41,9,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,106513,Michele Sarzilla,male
+126801,Team I Italy,190,Italy,ITA,1125586,9,01:23:41,9,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,71740,Ilaria Zane,female
+126801,Team I Italy,190,Italy,ITA,1125586,9,01:23:41,9,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,71738,Gianluca Pozzatti,male
+126801,Team I Italy,190,Italy,ITA,1125586,9,01:23:41,9,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,58449,Verena Steinhauser,female
+126780,Team I Spain,270,Spain,ESP,1125587,10,01:23:44,12,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,63428,Antonio Serrat Seoane,male
+126780,Team I Spain,270,Spain,ESP,1125587,10,01:23:44,12,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,31827,Anna Godoy Contreras,female
+126780,Team I Spain,270,Spain,ESP,1125587,10,01:23:44,12,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,63429,Roberto Sanchez Mantecon,male
+126780,Team I Spain,270,Spain,ESP,1125587,10,01:23:44,12,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,30383,Miriam Casillas García,female
+126799,Team I Belgium,119,Belgium,BEL,1125588,11,01:23:55,11,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,40311,Marten Van Riel,male
+126799,Team I Belgium,119,Belgium,BEL,1125588,11,01:23:55,11,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,72769,Claire Michel,female
+126799,Team I Belgium,119,Belgium,BEL,1125588,11,01:23:55,11,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,39974,Jelle Geens,male
+126799,Team I Belgium,119,Belgium,BEL,1125588,11,01:23:55,11,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,94265,Valerie Barthelemy,female
+126807,Team I Netherlands,230,Netherlands,NED,1125589,12,01:24:02,19,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1125589,12,01:24:02,19,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,22170,Rachel Klamer,female
+126807,Team I Netherlands,230,Netherlands,NED,1125589,12,01:24:02,19,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1125589,12,01:24:02,19,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,81276,Rani Skrabanja,female
+126798,Team I Portugal,247,Portugal,POR,1125590,13,01:24:10,14,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,86042,Vasco Vilaca,male
+126798,Team I Portugal,247,Portugal,POR,1125590,13,01:24:10,14,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,47942,Melanie Santos,female
+126798,Team I Portugal,247,Portugal,POR,1125590,13,01:24:10,14,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,156380,João Nuno Batista,male
+126798,Team I Portugal,247,Portugal,POR,1125590,13,01:24:10,14,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,112738,Maria Tomé,female
+126779,Team I Great Britain,292,Great Britain,GBR,1125591,14,01:24:31,8,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,125294,Connor Bentley,male
+126779,Team I Great Britain,292,Great Britain,GBR,1125591,14,01:24:31,8,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,50760,Sophie Evans,female
+126779,Team I Great Britain,292,Great Britain,GBR,1125591,14,01:24:31,8,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,74423,Jack Willis,male
+126779,Team I Great Britain,292,Great Britain,GBR,1125591,14,01:24:31,8,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,117212,Beth Potter,female
+126806,Team I Luxembourg,209,Luxembourg,LUX,1125592,15,01:24:41,22,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,30485,Bob Haller,male
+126806,Team I Luxembourg,209,Luxembourg,LUX,1125592,15,01:24:41,22,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,56557,Jeanne Lehair,female
+126806,Team I Luxembourg,209,Luxembourg,LUX,1125592,15,01:24:41,22,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,41831,Gregor Payet,male
+126806,Team I Luxembourg,209,Luxembourg,LUX,1125592,15,01:24:41,22,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,114954,Eva Daniels,female
+126784,Team I South Africa,269,South Africa,RSA,1125593,16,01:25:02,21,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,30433,Henri Schoeman,male
+126784,Team I South Africa,269,South Africa,RSA,1125593,16,01:25:02,21,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,103983,Shanae Williams,female
+126784,Team I South Africa,269,South Africa,RSA,1125593,16,01:25:02,21,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,82672,Dylan Nortje,male
+126784,Team I South Africa,269,South Africa,RSA,1125593,16,01:25:02,21,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,115483,Amber Schlebusch,female
+126773,Team I Canada,135,Canada,CAN,1125594,17,01:25:24,2,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,79706,Charles Paquet,male
+126773,Team I Canada,135,Canada,CAN,1125594,17,01:25:24,2,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,39381,Dominika Jamnicky,female
+126773,Team I Canada,135,Canada,CAN,1125594,17,01:25:24,2,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,49411,Tyler Mislawchuk,male
+126773,Team I Canada,135,Canada,CAN,1125594,17,01:25:24,2,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,69055,Emy Legault,female
+126794,Team I Denmark,153,Denmark,DEN,1125595,18,01:25:32,10,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1125595,18,01:25:32,10,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,82017,Alberte Kjær Pedersen,female
+126794,Team I Denmark,153,Denmark,DEN,1125595,18,01:25:32,10,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,106435,Valdemar Solok,male
+126794,Team I Denmark,153,Denmark,DEN,1125595,18,01:25:32,10,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,94555,Anne Holm,female
+126789,Team I Austria,112,Austria,AUT,1125596,19,01:26:09,20,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,21622,Alois Knabl,male
+126789,Team I Austria,112,Austria,AUT,1125596,19,01:26:09,20,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,41079,Julia Hauser,female
+126789,Team I Austria,112,Austria,AUT,1125596,19,01:26:09,20,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,94563,Tjebbe Kaindl,male
+126789,Team I Austria,112,Austria,AUT,1125596,19,01:26:09,20,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,11879,Lisa Perterer,female
+126781,Team I Mexico,219,Mexico,MEX,1125597,20,01:27:34,5,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,6186,Irving Perez,male
+126781,Team I Mexico,219,Mexico,MEX,1125597,20,01:27:34,5,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,124359,Mercedes Romero Orozco,female
+126781,Team I Mexico,219,Mexico,MEX,1125597,20,01:27:34,5,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,12773,Rodrigo Gonzalez Lopez,male
+126781,Team I Mexico,219,Mexico,MEX,1125597,20,01:27:34,5,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,73426,Lizeth Rueda Santos,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1125598,LAP,LAP,18,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,135462,Jakub Marek,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1125598,LAP,LAP,18,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,150619,Katerina Mickova,female
+126795,Team I Czech Republic,152,Czech Republic,CZE,1125598,LAP,LAP,18,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,115245,Filip Michalek,male
+126795,Team I Czech Republic,152,Czech Republic,CZE,1125598,LAP,LAP,18,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,158277,Kateřina Hadravova,female
+126777,Team I Japan,192,Japan,JPN,1125599,LAP,LAP,23,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,1,55960,Koki Yamamoto,male
+126777,Team I Japan,192,Japan,JPN,1125599,LAP,LAP,23,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,2,17285,Yuko Takahashi,female
+126777,Team I Japan,192,Japan,JPN,1125599,LAP,LAP,23,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,3,162909,Amu Omuro,male
+126777,Team I Japan,192,Japan,JPN,1125599,LAP,LAP,23,583293,168484,2023 World Triathlon Sprint and Relay Championships Hamburg,4,109517,Minori Ikeno,female
+126787,Team I France,166,France,FRA,1127841,1,01:26:53,9,576189,171974,2023 World Triathlon Championship Series Sunderland,1,63651,Tom Richard,male
+126787,Team I France,166,France,FRA,1127841,1,01:26:53,9,576189,171974,2023 World Triathlon Championship Series Sunderland,2,125375,Emma Lombardi,female
+126787,Team I France,166,France,FRA,1127841,1,01:26:53,9,576189,171974,2023 World Triathlon Championship Series Sunderland,3,30249,Pierre Le Corre,male
+126787,Team I France,166,France,FRA,1127841,1,01:26:53,9,576189,171974,2023 World Triathlon Championship Series Sunderland,4,63163,Cassandre Beaugrand,female
+126779,Team I Great Britain,292,Great Britain,GBR,1127842,2,01:27:16,7,576189,171974,2023 World Triathlon Championship Series Sunderland,1,98137,Barclay Izzard,male
+126779,Team I Great Britain,292,Great Britain,GBR,1127842,2,01:27:16,7,576189,171974,2023 World Triathlon Championship Series Sunderland,2,117212,Beth Potter,female
+126779,Team I Great Britain,292,Great Britain,GBR,1127842,2,01:27:16,7,576189,171974,2023 World Triathlon Championship Series Sunderland,3,104983,Max Stapley,male
+126779,Team I Great Britain,292,Great Britain,GBR,1127842,2,01:27:16,7,576189,171974,2023 World Triathlon Championship Series Sunderland,4,104333,Jessica Fullagar,female
+126847,Team I Norway,236,Norway,NOR,1127843,3,01:27:27,15,576189,171974,2023 World Triathlon Championship Series Sunderland,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1127843,3,01:27:27,15,576189,171974,2023 World Triathlon Championship Series Sunderland,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1127843,3,01:27:27,15,576189,171974,2023 World Triathlon Championship Series Sunderland,3,76434,Casper Stornes,male
+126847,Team I Norway,236,Norway,NOR,1127843,3,01:27:27,15,576189,171974,2023 World Triathlon Championship Series Sunderland,4,94515,Solveig Løvseth,female
+126782,Team I New Zealand,232,New Zealand,NZL,1127844,4,01:27:42,3,576189,171974,2023 World Triathlon Championship Series Sunderland,1,54985,Tayler Reid,male
+126782,Team I New Zealand,232,New Zealand,NZL,1127844,4,01:27:42,3,576189,171974,2023 World Triathlon Championship Series Sunderland,2,92305,Ainsley Thorpe,female
+126782,Team I New Zealand,232,New Zealand,NZL,1127844,4,01:27:42,3,576189,171974,2023 World Triathlon Championship Series Sunderland,3,104034,Hayden Wilde,male
+126782,Team I New Zealand,232,New Zealand,NZL,1127844,4,01:27:42,3,576189,171974,2023 World Triathlon Championship Series Sunderland,4,123536,Brea Roderick,female
+126780,Team I Spain,270,Spain,ESP,1127845,5,01:28:17,10,576189,171974,2023 World Triathlon Championship Series Sunderland,1,116279,Sergio Baxter Cabrera,male
+126780,Team I Spain,270,Spain,ESP,1127845,5,01:28:17,10,576189,171974,2023 World Triathlon Championship Series Sunderland,2,30383,Miriam Casillas García,female
+126780,Team I Spain,270,Spain,ESP,1127845,5,01:28:17,10,576189,171974,2023 World Triathlon Championship Series Sunderland,3,63428,Antonio Serrat Seoane,male
+126780,Team I Spain,270,Spain,ESP,1127845,5,01:28:17,10,576189,171974,2023 World Triathlon Championship Series Sunderland,4,79637,Noelia Juan,female
+126783,Team I Switzerland,276,Switzerland,SUI,1127846,6,01:28:25,4,576189,171974,2023 World Triathlon Championship Series Sunderland,1,70032,Max Studer,male
+126783,Team I Switzerland,276,Switzerland,SUI,1127846,6,01:28:25,4,576189,171974,2023 World Triathlon Championship Series Sunderland,2,84816,Julie Derron,female
+126783,Team I Switzerland,276,Switzerland,SUI,1127846,6,01:28:25,4,576189,171974,2023 World Triathlon Championship Series Sunderland,3,56550,Adrien Briffod,male
+126783,Team I Switzerland,276,Switzerland,SUI,1127846,6,01:28:25,4,576189,171974,2023 World Triathlon Championship Series Sunderland,4,115148,Cathia Schär,female
+126798,Team I Portugal,247,Portugal,POR,1127847,7,01:28:31,18,576189,171974,2023 World Triathlon Championship Series Sunderland,1,86042,Vasco Vilaca,male
+126798,Team I Portugal,247,Portugal,POR,1127847,7,01:28:31,18,576189,171974,2023 World Triathlon Championship Series Sunderland,2,47942,Melanie Santos,female
+126798,Team I Portugal,247,Portugal,POR,1127847,7,01:28:31,18,576189,171974,2023 World Triathlon Championship Series Sunderland,3,98121,Ricardo Batista,male
+126798,Team I Portugal,247,Portugal,POR,1127847,7,01:28:31,18,576189,171974,2023 World Triathlon Championship Series Sunderland,4,112738,Maria Tomé,female
+126785,Team I United States,293,United States,USA,1127848,8,01:29:17,2,576189,171974,2023 World Triathlon Championship Series Sunderland,1,96667,Chase McQueen,male
+126785,Team I United States,293,United States,USA,1127848,8,01:29:17,2,576189,171974,2023 World Triathlon Championship Series Sunderland,2,40887,Gwen Jorgensen,female
+126785,Team I United States,293,United States,USA,1127848,8,01:29:17,2,576189,171974,2023 World Triathlon Championship Series Sunderland,3,80663,Darr Smith,male
+126785,Team I United States,293,United States,USA,1127848,8,01:29:17,2,576189,171974,2023 World Triathlon Championship Series Sunderland,4,132848,Gina Sereno,female
+126776,Team I Germany,170,Germany,GER,1127849,9,01:30:01,1,576189,171974,2023 World Triathlon Championship Series Sunderland,1,70410,Lasse Lührs,male
+126776,Team I Germany,170,Germany,GER,1127849,9,01:30:01,1,576189,171974,2023 World Triathlon Championship Series Sunderland,2,84871,Anabel Knoll,female
+126776,Team I Germany,170,Germany,GER,1127849,9,01:30:01,1,576189,171974,2023 World Triathlon Championship Series Sunderland,3,98252,Johannes Vogel,male
+126776,Team I Germany,170,Germany,GER,1127849,9,01:30:01,1,576189,171974,2023 World Triathlon Championship Series Sunderland,4,31760,Marlene Gomez-Göggel,female
+126774,Team I Hungary,182,Hungary,HUN,1127850,10,01:30:06,8,576189,171974,2023 World Triathlon Championship Series Sunderland,1,11001,Gábor Faldum,male
+126774,Team I Hungary,182,Hungary,HUN,1127850,10,01:30:06,8,576189,171974,2023 World Triathlon Championship Series Sunderland,2,16368,Zsanett Kuttor-Bragmayer,female
+126774,Team I Hungary,182,Hungary,HUN,1127850,10,01:30:06,8,576189,171974,2023 World Triathlon Championship Series Sunderland,3,56153,Márk Dévay,male
+126774,Team I Hungary,182,Hungary,HUN,1127850,10,01:30:06,8,576189,171974,2023 World Triathlon Championship Series Sunderland,4,116271,Karolina Helga Horváth,female
+126775,Team I Brazil,127,Brazil,BRA,1127851,11,01:30:20,17,576189,171974,2023 World Triathlon Championship Series Sunderland,1,69143,Manoel Messias,male
+126775,Team I Brazil,127,Brazil,BRA,1127851,11,01:30:20,17,576189,171974,2023 World Triathlon Championship Series Sunderland,2,81882,Vittoria Lopes,female
+126775,Team I Brazil,127,Brazil,BRA,1127851,11,01:30:20,17,576189,171974,2023 World Triathlon Championship Series Sunderland,3,105480,Miguel Hidalgo,male
+126775,Team I Brazil,127,Brazil,BRA,1127851,11,01:30:20,17,576189,171974,2023 World Triathlon Championship Series Sunderland,4,125061,Djenyfer Arnold,female
+126807,Team I Netherlands,230,Netherlands,NED,1127852,12,01:30:50,16,576189,171974,2023 World Triathlon Championship Series Sunderland,1,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1127852,12,01:30:50,16,576189,171974,2023 World Triathlon Championship Series Sunderland,2,22170,Rachel Klamer,female
+126807,Team I Netherlands,230,Netherlands,NED,1127852,12,01:30:50,16,576189,171974,2023 World Triathlon Championship Series Sunderland,3,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1127852,12,01:30:50,16,576189,171974,2023 World Triathlon Championship Series Sunderland,4,157742,Aniek Mars,female
+126794,Team I Denmark,153,Denmark,DEN,1127853,13,01:31:00,14,576189,171974,2023 World Triathlon Championship Series Sunderland,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1127853,13,01:31:00,14,576189,171974,2023 World Triathlon Championship Series Sunderland,2,94555,Anne Holm,female
+126794,Team I Denmark,153,Denmark,DEN,1127853,13,01:31:00,14,576189,171974,2023 World Triathlon Championship Series Sunderland,3,106438,Oscar Gladney Rundqvist,male
+126794,Team I Denmark,153,Denmark,DEN,1127853,13,01:31:00,14,576189,171974,2023 World Triathlon Championship Series Sunderland,4,159181,Clara Carlquist,female
+126801,Team I Italy,190,Italy,ITA,1127854,14,01:31:09,6,576189,171974,2023 World Triathlon Championship Series Sunderland,1,106578,Nicolò Strada,male
+126801,Team I Italy,190,Italy,ITA,1127854,14,01:31:09,6,576189,171974,2023 World Triathlon Championship Series Sunderland,2,71740,Ilaria Zane,female
+126801,Team I Italy,190,Italy,ITA,1127854,14,01:31:09,6,576189,171974,2023 World Triathlon Championship Series Sunderland,3,107730,Alessio Crociani,male
+126801,Team I Italy,190,Italy,ITA,1127854,14,01:31:09,6,576189,171974,2023 World Triathlon Championship Series Sunderland,4,39683,Alice Betto,female
+126784,Team I South Africa,269,South Africa,RSA,1127855,15,01:31:18,19,576189,171974,2023 World Triathlon Championship Series Sunderland,1,30433,Henri Schoeman,male
+126784,Team I South Africa,269,South Africa,RSA,1127855,15,01:31:18,19,576189,171974,2023 World Triathlon Championship Series Sunderland,2,103983,Shanae Williams,female
+126784,Team I South Africa,269,South Africa,RSA,1127855,15,01:31:18,19,576189,171974,2023 World Triathlon Championship Series Sunderland,3,103943,Jamie Riddle,male
+126784,Team I South Africa,269,South Africa,RSA,1127855,15,01:31:18,19,576189,171974,2023 World Triathlon Championship Series Sunderland,4,7803,Vicky Van Der Merwe,female
+126781,Team I Mexico,219,Mexico,MEX,1127856,16,01:31:28,12,576189,171974,2023 World Triathlon Championship Series Sunderland,1,103530,Aram Michell Peñaflor Moysen,male
+126781,Team I Mexico,219,Mexico,MEX,1127856,16,01:31:28,12,576189,171974,2023 World Triathlon Championship Series Sunderland,2,124359,Mercedes Romero Orozco,female
+126781,Team I Mexico,219,Mexico,MEX,1127856,16,01:31:28,12,576189,171974,2023 World Triathlon Championship Series Sunderland,3,7503,Crisanto Grajales Valencia,male
+126781,Team I Mexico,219,Mexico,MEX,1127856,16,01:31:28,12,576189,171974,2023 World Triathlon Championship Series Sunderland,4,73426,Lizeth Rueda Santos,female
+126777,Team I Japan,192,Japan,JPN,1127857,17,01:33:07,20,576189,171974,2023 World Triathlon Championship Series Sunderland,1,90031,Ren Sato,male
+126777,Team I Japan,192,Japan,JPN,1127857,17,01:33:07,20,576189,171974,2023 World Triathlon Championship Series Sunderland,2,17285,Yuko Takahashi,female
+126777,Team I Japan,192,Japan,JPN,1127857,17,01:33:07,20,576189,171974,2023 World Triathlon Championship Series Sunderland,3,122645,Kyotaro Yoshikawa,male
+126777,Team I Japan,192,Japan,JPN,1127857,17,01:33:07,20,576189,171974,2023 World Triathlon Championship Series Sunderland,4,109517,Minori Ikeno,female
+126778,Team I Australia,111,Australia,AUS,1127858,DNF,,5,576189,171974,2023 World Triathlon Championship Series Sunderland,1,45915,Jacob Birtwhistle,male
+126778,Team I Australia,111,Australia,AUS,1127858,DNF,,5,576189,171974,2023 World Triathlon Championship Series Sunderland,2,10077,Charlotte McShane,female
+126778,Team I Australia,111,Australia,AUS,1127858,DNF,,5,576189,171974,2023 World Triathlon Championship Series Sunderland,3,112859,Oscar Dart,male
+126778,Team I Australia,111,Australia,AUS,1127858,DNF,,5,576189,171974,2023 World Triathlon Championship Series Sunderland,4,123623,Jasmine Greaves,female
+126799,Team I Belgium,119,Belgium,BEL,1127859,DNF,,11,576189,171974,2023 World Triathlon Championship Series Sunderland,1,93364,Arnaud Mengal,male
+126799,Team I Belgium,119,Belgium,BEL,1127859,DNF,,11,576189,171974,2023 World Triathlon Championship Series Sunderland,2,113106,Jolien Vermeylen,female
+126799,Team I Belgium,119,Belgium,BEL,1127859,DNF,,11,576189,171974,2023 World Triathlon Championship Series Sunderland,3,71340,Noah Servais,male
+126799,Team I Belgium,119,Belgium,BEL,1127859,DNF,,11,576189,171974,2023 World Triathlon Championship Series Sunderland,4,72769,Claire Michel,female
+126776,Team I Germany,170,Germany,GER,1132078,1,01:12:18,2,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,106885,Tim Hellwig,male
+126776,Team I Germany,170,Germany,GER,1132078,1,01:12:18,2,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,79065,Lisa Tertsch,female
+126776,Team I Germany,170,Germany,GER,1132078,1,01:12:18,2,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,67535,Jonas Schomburg,male
+126776,Team I Germany,170,Germany,GER,1132078,1,01:12:18,2,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,70413,Laura Lindemann,female
+126779,Team I Great Britain,292,Great Britain,GBR,1132079,2,01:12:19,4,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,98137,Barclay Izzard,male
+126779,Team I Great Britain,292,Great Britain,GBR,1132079,2,01:12:19,4,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,86051,Kate Waugh,female
+126779,Team I Great Britain,292,Great Britain,GBR,1132079,2,01:12:19,4,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,96742,Alex Yee,male
+126779,Team I Great Britain,292,Great Britain,GBR,1132079,2,01:12:19,4,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,117212,Beth Potter,female
+126799,Team I Belgium,119,Belgium,BEL,1132080,3,01:12:36,14,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,93364,Arnaud Mengal,male
+126799,Team I Belgium,119,Belgium,BEL,1132080,3,01:12:36,14,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,113106,Jolien Vermeylen,female
+126799,Team I Belgium,119,Belgium,BEL,1132080,3,01:12:36,14,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,39974,Jelle Geens,male
+126799,Team I Belgium,119,Belgium,BEL,1132080,3,01:12:36,14,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,72769,Claire Michel,female
+126787,Team I France,166,France,FRA,1132081,4,01:12:40,5,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,49390,Dorian Coninx,male
+126787,Team I France,166,France,FRA,1132081,4,01:12:40,5,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,63163,Cassandre Beaugrand,female
+126787,Team I France,166,France,FRA,1132081,4,01:12:40,5,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,63162,Léo Bergere,male
+126787,Team I France,166,France,FRA,1132081,4,01:12:40,5,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,125375,Emma Lombardi,female
+126798,Team I Portugal,247,Portugal,POR,1132082,5,01:12:41,15,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,98121,Ricardo Batista,male
+126798,Team I Portugal,247,Portugal,POR,1132082,5,01:12:41,15,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,112738,Maria Tomé,female
+126798,Team I Portugal,247,Portugal,POR,1132082,5,01:12:41,15,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,86042,Vasco Vilaca,male
+126798,Team I Portugal,247,Portugal,POR,1132082,5,01:12:41,15,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,47942,Melanie Santos,female
+126807,Team I Netherlands,230,Netherlands,NED,1132083,6,01:13:00,16,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1132083,6,01:13:00,16,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,123462,Barbara De Koning,female
+126807,Team I Netherlands,230,Netherlands,NED,1132083,6,01:13:00,16,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1132083,6,01:13:00,16,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,22170,Rachel Klamer,female
+126801,Team I Italy,190,Italy,ITA,1132084,7,01:13:01,8,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,106513,Michele Sarzilla,male
+126801,Team I Italy,190,Italy,ITA,1132084,7,01:13:01,8,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,39683,Alice Betto,female
+126801,Team I Italy,190,Italy,ITA,1132084,7,01:13:01,8,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,106578,Nicolò Strada,male
+126801,Team I Italy,190,Italy,ITA,1132084,7,01:13:01,8,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,58449,Verena Steinhauser,female
+126774,Team I Hungary,182,Hungary,HUN,1132085,8,01:13:02,11,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,11001,Gábor Faldum,male
+126774,Team I Hungary,182,Hungary,HUN,1132085,8,01:13:02,11,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,16368,Zsanett Kuttor-Bragmayer,female
+126774,Team I Hungary,182,Hungary,HUN,1132085,8,01:13:02,11,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,94446,Csongor Lehmann,male
+126774,Team I Hungary,182,Hungary,HUN,1132085,8,01:13:02,11,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,127941,Márta Kropkó,female
+126785,Team I United States,293,United States,USA,1132086,9,01:13:05,3,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,76425,Seth Rider,male
+126785,Team I United States,293,United States,USA,1132086,9,01:13:05,3,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,81334,Taylor Spivey,female
+126785,Team I United States,293,United States,USA,1132086,9,01:13:05,3,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,80663,Darr Smith,male
+126785,Team I United States,293,United States,USA,1132086,9,01:13:05,3,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,80643,Taylor Knibb,female
+126847,Team I Norway,236,Norway,NOR,1132087,10,01:13:13,9,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1132087,10,01:13:13,9,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1132087,10,01:13:13,9,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,76434,Casper Stornes,male
+126847,Team I Norway,236,Norway,NOR,1132087,10,01:13:13,9,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,94515,Solveig Løvseth,female
+126780,Team I Spain,270,Spain,ESP,1132088,11,01:13:14,6,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,63429,Roberto Sanchez Mantecon,male
+126780,Team I Spain,270,Spain,ESP,1132088,11,01:13:14,6,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,31827,Anna Godoy Contreras,female
+126780,Team I Spain,270,Spain,ESP,1132088,11,01:13:14,6,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,63428,Antonio Serrat Seoane,male
+126780,Team I Spain,270,Spain,ESP,1132088,11,01:13:14,6,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,122267,Marta Pintanel Raymundo,female
+126775,Team I Brazil,127,Brazil,BRA,1132089,12,01:13:19,17,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,105480,Miguel Hidalgo,male
+126775,Team I Brazil,127,Brazil,BRA,1132089,12,01:13:19,17,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,125061,Djenyfer Arnold,female
+126775,Team I Brazil,127,Brazil,BRA,1132089,12,01:13:19,17,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,125038,Antonio Bravo Neto,male
+126775,Team I Brazil,127,Brazil,BRA,1132089,12,01:13:19,17,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,81882,Vittoria Lopes,female
+126782,Team I New Zealand,232,New Zealand,NZL,1132090,13,01:13:30,1,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,54985,Tayler Reid,male
+126782,Team I New Zealand,232,New Zealand,NZL,1132090,13,01:13:30,1,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,64750,Nicole Van Der Kaay,female
+126782,Team I New Zealand,232,New Zealand,NZL,1132090,13,01:13:30,1,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,103632,Dylan McCullough,male
+126782,Team I New Zealand,232,New Zealand,NZL,1132090,13,01:13:30,1,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,123536,Brea Roderick,female
+126778,Team I Australia,111,Australia,AUS,1132091,14,01:13:33,7,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,92397,Brandon Copeland,male
+126778,Team I Australia,111,Australia,AUS,1132091,14,01:13:33,7,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,54913,Jaz Hedgeland,female
+126778,Team I Australia,111,Australia,AUS,1132091,14,01:13:33,7,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,45915,Jacob Birtwhistle,male
+126778,Team I Australia,111,Australia,AUS,1132091,14,01:13:33,7,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,45907,Natalie Van Coevorden,female
+126794,Team I Denmark,153,Denmark,DEN,1132092,15,01:14:00,12,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,58566,Emil Holm,male
+126794,Team I Denmark,153,Denmark,DEN,1132092,15,01:14:00,12,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,82017,Alberte Kjær Pedersen,female
+126794,Team I Denmark,153,Denmark,DEN,1132092,15,01:14:00,12,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,106438,Oscar Gladney Rundqvist,male
+126794,Team I Denmark,153,Denmark,DEN,1132092,15,01:14:00,12,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,94555,Anne Holm,female
+126777,Team I Japan,192,Japan,JPN,1132093,16,01:14:51,20,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,39264,Kenji Nener,male
+126777,Team I Japan,192,Japan,JPN,1132093,16,01:14:51,20,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,17285,Yuko Takahashi,female
+126777,Team I Japan,192,Japan,JPN,1132093,16,01:14:51,20,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,63982,Makoto Odakura,male
+126777,Team I Japan,192,Japan,JPN,1132093,16,01:14:51,20,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,95439,Niina Kishimoto,female
+126789,Team I Austria,112,Austria,AUT,1132094,17,01:15:34,21,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,21622,Alois Knabl,male
+126789,Team I Austria,112,Austria,AUT,1132094,17,01:15:34,21,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,41079,Julia Hauser,female
+126789,Team I Austria,112,Austria,AUT,1132094,17,01:15:34,21,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,94563,Tjebbe Kaindl,male
+126789,Team I Austria,112,Austria,AUT,1132094,17,01:15:34,21,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,11878,Tanja Stroschneider,female
+126784,Team I South Africa,269,South Africa,RSA,1132095,18,01:15:42,19,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,30433,Henri Schoeman,male
+126784,Team I South Africa,269,South Africa,RSA,1132095,18,01:15:42,19,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,103983,Shanae Williams,female
+126784,Team I South Africa,269,South Africa,RSA,1132095,18,01:15:42,19,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,103943,Jamie Riddle,male
+126784,Team I South Africa,269,South Africa,RSA,1132095,18,01:15:42,19,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,71763,Hannah Newman,female
+126806,Team I Luxembourg,209,Luxembourg,LUX,1132096,19,01:16:30,22,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,41831,Gregor Payet,male
+126806,Team I Luxembourg,209,Luxembourg,LUX,1132096,19,01:16:30,22,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,114954,Eva Daniels,female
+126806,Team I Luxembourg,209,Luxembourg,LUX,1132096,19,01:16:30,22,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,30485,Bob Haller,male
+126806,Team I Luxembourg,209,Luxembourg,LUX,1132096,19,01:16:30,22,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,56557,Jeanne Lehair,female
+126781,Team I Mexico,219,Mexico,MEX,1132098,LAP,LAP,18,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,103530,Aram Michell Peñaflor Moysen,male
+126781,Team I Mexico,219,Mexico,MEX,1132098,LAP,LAP,18,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,80813,Rosa Maria Tapia Vidal,female
+126781,Team I Mexico,219,Mexico,MEX,1132098,LAP,LAP,18,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,7503,Crisanto Grajales Valencia,male
+126781,Team I Mexico,219,Mexico,MEX,1132098,LAP,LAP,18,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,73426,Lizeth Rueda Santos,female
+126773,Team I Canada,135,Canada,CAN,1132097,DNF,,10,582648,172817,2023 World Triathlon Mixed Relay Series Paris,1,49411,Tyler Mislawchuk,male
+126773,Team I Canada,135,Canada,CAN,1132097,DNF,,10,582648,172817,2023 World Triathlon Mixed Relay Series Paris,2,39381,Dominika Jamnicky,female
+126773,Team I Canada,135,Canada,CAN,1132097,DNF,,10,582648,172817,2023 World Triathlon Mixed Relay Series Paris,3,115502,Brock Hoel,male
+126773,Team I Canada,135,Canada,CAN,1132097,DNF,,10,582648,172817,2023 World Triathlon Mixed Relay Series Paris,4,93409,Desirae Ridenour,female
+126847,Team I Norway,236,Norway,NOR,1155936,1,01:20:08,2,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,96040,Vetle Bergsvik Thorn,male
+126847,Team I Norway,236,Norway,NOR,1155936,1,01:20:08,2,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,47631,Lotte Miller,female
+126847,Team I Norway,236,Norway,NOR,1155936,1,01:20:08,2,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,76434,Casper Stornes,male
+126847,Team I Norway,236,Norway,NOR,1155936,1,01:20:08,2,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,94515,Solveig Løvseth,female
+126807,Team I Netherlands,230,Netherlands,NED,1155937,2,01:21:04,4,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,135049,Mitch Kolkman,male
+126807,Team I Netherlands,230,Netherlands,NED,1155937,2,01:21:04,4,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,123462,Barbara De Koning,female
+126807,Team I Netherlands,230,Netherlands,NED,1155937,2,01:21:04,4,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,16392,Richard Murray,male
+126807,Team I Netherlands,230,Netherlands,NED,1155937,2,01:21:04,4,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,22170,Rachel Klamer,female
+126774,Team I Hungary,182,Hungary,HUN,1155938,3,01:21:16,3,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,50700,Bence Bicsák,male
+126774,Team I Hungary,182,Hungary,HUN,1155938,3,01:21:16,3,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,116271,Karolina Helga Horváth,female
+126774,Team I Hungary,182,Hungary,HUN,1155938,3,01:21:16,3,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,94446,Csongor Lehmann,male
+126774,Team I Hungary,182,Hungary,HUN,1155938,3,01:21:16,3,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,16368,Zsanett Kuttor-Bragmayer,female
+126780,Team I Spain,270,Spain,ESP,1155939,4,01:21:51,1,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,47611,Genis Grau,male
+126780,Team I Spain,270,Spain,ESP,1155939,4,01:21:51,1,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,82483,Sara Guerrero Manso,female
+126780,Team I Spain,270,Spain,ESP,1155939,4,01:21:51,1,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,159183,Pelayo González Turrez,male
+126780,Team I Spain,270,Spain,ESP,1155939,4,01:21:51,1,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,132893,María Casals Mojica,female
+126789,Team I Austria,112,Austria,AUT,1155940,5,01:22:38,9,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,94563,Tjebbe Kaindl,male
+126789,Team I Austria,112,Austria,AUT,1155940,5,01:22:38,9,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,41079,Julia Hauser,female
+126789,Team I Austria,112,Austria,AUT,1155940,5,01:22:38,9,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,21622,Alois Knabl,male
+126789,Team I Austria,112,Austria,AUT,1155940,5,01:22:38,9,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,11879,Lisa Perterer,female
+126781,Team I Mexico,219,Mexico,MEX,1155942,6,01:25:05,6,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,142895,Nicolas Probert Vargas,male
+126781,Team I Mexico,219,Mexico,MEX,1155942,6,01:25:05,6,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,124359,Mercedes Romero Orozco,female
+126781,Team I Mexico,219,Mexico,MEX,1155942,6,01:25:05,6,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,162964,Yael Vladimir González Melendez,male
+126781,Team I Mexico,219,Mexico,MEX,1155942,6,01:25:05,6,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,158926,Luisa Daniela Baca Vargas,female
+126823,Team I Ecuador,157,Ecuador,ECU,1155944,LAP,LAP,8,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,112754,Gabriel Terán Carvajal,male
+126823,Team I Ecuador,157,Ecuador,ECU,1155944,LAP,LAP,8,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,70073,Paula Jara,female
+126823,Team I Ecuador,157,Ecuador,ECU,1155944,LAP,LAP,8,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,39560,Juan Jose Andrade Figueroa,male
+126823,Team I Ecuador,157,Ecuador,ECU,1155944,LAP,LAP,8,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,7525,Elizabeth Bravo,female
+126773,Team I Canada,135,Canada,CAN,1155941,DSQ,DSQ,5,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,115502,Brock Hoel,male
+126773,Team I Canada,135,Canada,CAN,1155941,DSQ,DSQ,5,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,125268,Sophia Howell,female
+126773,Team I Canada,135,Canada,CAN,1155941,DSQ,DSQ,5,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,144208,Mathis Beaulieu,male
+126773,Team I Canada,135,Canada,CAN,1155941,DSQ,DSQ,5,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,93409,Desirae Ridenour,female
+126784,Team I South Africa,269,South Africa,RSA,1155943,DNF,DNF,7,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,1,103943,Jamie Riddle,male
+126784,Team I South Africa,269,South Africa,RSA,1155943,DNF,DNF,7,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,2,7803,Vicky Van Der Merwe,female
+126784,Team I South Africa,269,South Africa,RSA,1155943,DNF,DNF,7,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,3,30433,Henri Schoeman,male
+126784,Team I South Africa,269,South Africa,RSA,1155943,DNF,DNF,7,630338,186039,2024 World Triathlon Mixed Relay Olympic Qualification Event Huatulco,4,117013,Bridget Theunissen,female
